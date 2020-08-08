@@ -1,6 +1,6 @@
 {
   "remoteServiceBaseUrl": "https://ap-i-api.azurewebsites.net",
-  "appBaseUrl": "http://localhost:4200",
+  "appBaseUrl": "https://invoice.askpio.com",
   "localeMappings": [
     {
       "from": "pt-BR",
