@@ -1,0 +1,13 @@
+.login-page {
+background-image: url("./img/bg.jpg");
+}
+.login-box {
+    background-color: #fff;
+    border-radius: 10%;
+    min-width: 600px;
+    padding: 10%;
+}
+
+.card {
+    box-shadow: 0 0;
+}
